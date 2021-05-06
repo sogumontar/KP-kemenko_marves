@@ -1,0 +1,61 @@
+Milestone 
+
+03-Mei-2021 / 06-Mei-2021
+	: 
+	  - Analisis Website (Scraping)
+	  - Tutorial Scraping website
+	  - Design DB Schema
+	  - Generating Database
+	  
+07-Mei-2021 / 20-Mei-2021
+	: 
+	  - Dody: 
+		  1. Scraping (http://api.jakarta.go.id/)
+	  - Sogumontar, Heppy:
+		  1. Scraping (https://data.bmkg.go.id/prakiraan-cuaca/)
+	  - Devi, Surya:
+		  1. Scraping (https://www.iqair.com/indonesia)
+
+21-Mei-2021 / 28-Mei-2021
+	:
+	  - Scraping website :
+				1. ESDM
+				2. PUPR
+				3. Kemhub
+				4. KLHK
+				5. Parekraf
+				6. BKPM
+				7. https://webapi.bps.go.id/developer/
+				8. https://openweathermap.org/
+				9. https://satudata.kkp.go.id/
+				10. databoks.katadata.go.id 
+31-Mei-2021 / 07-Juni-2021
+	:
+	  - Konfigurasi server database online
+	  - Konfigurasi dan mengelola tableu (dashboard data)
+
+
+08-Juni-2021 / 15-Juni-2021
+	: Revisi Hasil Project 1. Get Data from Open API
+
+
+16-Juni-2021 / 18-Juni-2021
+	: Analisis project kedua ( Get Data from Open API)
+
+21-Juni-2021
+	: Analisis kebutuhan data yang akan di scrape
+
+22-Juni-2021 / 30-Juni-2021
+	: 
+	  1. Design website
+	  2. Rancang alur sistem (end to end proses)
+	  3. Konfigurasi Elastic search dan website yang akan dibangun
+
+01-Juli-2021 / 23-Juli-2021
+	: Implementasi website
+
+26-Juli-2021 / 30-Juli-2021
+	: revisi project kedua
+
+01-Agustus-2021 / 03-Agustus-2021
+	: Finalisasi dokumen dan project KP

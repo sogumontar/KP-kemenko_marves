@@ -1,0 +1,30 @@
+Milestone 
+
+03-mei-2021 / 06-mei-2021
+	: 
+	  - Analisis Website (Scraping)
+	  - Tutorial Scraping website
+	  - Konfigurasi server database online
+	  - Generating DB Schema
+	  
+07-mei-2021 / 14-mei-2021
+	: 
+	  - Dody: 
+		  1. Scraping (http://api.jakarta.go.id/)
+	  - Sogumontar, Heppy:
+		  1. Scraping (https://data.bmkg.go.id/prakiraan-cuaca/)
+	  - Devi, Surya:
+		  1. Scraping (https://www.iqair.com/indonesia)
+
+17-mei-2021 / 24-mei-2021
+	:
+	  - Scraping website :
+				1. ESDM
+				2. PUPR
+				3. Kemhub
+				4. KLHK
+				5. Parekraf
+				6. BKPM
+24-mei-2021 / 31-mei-2021
+	:
+	  - Konfigurasi dan mengelola tableu (dashboard data)
