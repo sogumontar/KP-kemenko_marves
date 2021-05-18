@@ -1,23 +1,5 @@
 Milestone 
 
-03-Mei-2021 / 06-Mei-2021
-	: 
-	  - Analisis Website (Scraping)
-	  - Tutorial Scraping website
-	  - Design DB Schema
-	  - Generating Database
-	  
-07-Mei-2021 / 20-Mei-2021
-	: 
-	  - Dody: 
-		  1. Scraping (http://api.jakarta.go.id/)
-	  - Sogumontar, Heppy:
-		  1. Scraping (https://data.bmkg.go.id/prakiraan-cuaca/)
-	  - Devi, Surya:
-		  1. Scraping (https://www.iqair.com/indonesia)
-
-21-Mei-2021 / 28-Mei-2021
-	:
 	  - Scraping website :
 				1. ESDM
 				2. PUPR
@@ -29,6 +11,30 @@ Milestone
 				8. https://openweathermap.org/
 				9. https://satudata.kkp.go.id/
 				10. databoks.katadata.go.id 
+
+03-Mei-2021 / 06-Mei-2021 (DONE)
+	: 
+	  - Analisis Website (Scraping)
+	  - Tutorial Scraping website
+	  - Design DB Schema
+	  - Generating Database
+	  
+07-Mei-2021 / 20-Mei-2021 (DONE)
+	: 
+	  - Dody: 
+		  1. Scraping (http://api.jakarta.go.id/)
+	  - Sogumontar, Heppy:
+		  1. Scraping (https://data.bmkg.go.id/prakiraan-cuaca/)
+	  - Devi, Surya:
+		  1. Scraping (https://www.iqair.com/indonesia)
+
+21-Mei-2021 / 28-Mei-2021
+	:
+	  - Design website for reload data (Devi)
+	  - Scrape (https://openweathermap.org/) (Dody)
+	  - Scrape (https://satudata.kkp.go.id/) (Heppy)
+	  - Implement website (Hendra, Surya)
+
 31-Mei-2021 / 07-Juni-2021
 	:
 	  - Konfigurasi server database online
